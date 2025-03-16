@@ -1,76 +1,43 @@
-# Hi there! I'm Rasad Regmi 👋
+# Hi there! I'm Rasad Regmi
 
-![Profile Views](https://komarev.com/ghpvc/?username=rasadregmi&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=rasadregmi&label=Profile%20Views&color=0e75b6&style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasadregmi/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regmirasad53@gmail.com)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rasadregmi.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasadregmi) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasadregmi@example.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rasadregmi.com)
 
----
+I'm a passionate MERN stack developer from Kathmandu, Nepal, currently exploring Artificial Intelligence. I enjoy building scalable applications and solving real-world problems with technology.
 
-## 👨‍💻 About Me
+### 💡 About Me:
+- 🔭 Exploring AI and its applications in software development.
+- 🌱 Currently improving my skills in cloud computing and machine learning.
+- 💬 Open to discussions on web development, AI, and innovative tech solutions.
+- 🤝 Looking for collaborations on exciting projects.
 
-- 🎓 Bachelor of Engineering in Software Engineering at **Nepal College of Information Technology (NCIT)**
-- 🏆 **Ranked #1** in Second Semester at Pokhara University (2024)
-- 💻 **Passionate about Web Development, AI/ML, and Scalable Software Solutions**
-- 🏆 Active participant in **hackathons** and team-based software projects
-- 🚀 Always open to collaboration in **MERN Stack, AI/ML, and Cloud Computing**
-
----
-
-## 🚀 Technical Skills
+## 🛠️ Tech Stack & Tools:
 
 ### Programming Languages:
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Technologies:
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+### Tools & Platforms:
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🏆 Projects
-
-### 🚀 Scam Report Aggregator
-🔗 [GitHub Repo](https://github.com/rasadregmi/scam)  
-- **Tech Stack**: MERN (MongoDB, Express, React, Node.js)
-- Built a **scam report aggregation system** to enhance cybersecurity awareness.
-
-### 📚 ClassLens
-🔗 [GitHub Repo](https://github.com/rasadregmi/ClassLens)  
-- **Tech Stack**: Next.js, Tailwind CSS
-- Developed an **AI-powered classroom engagement platform**.
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasadregmi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasadregmi&layout=compact&theme=dark)
 
 ---
-
-## 🎓 Certifications
-
-- 📜 **Understanding Data Science** - DataCamp  
-🔗 [Credential](https://tinyurl.com/my7jdxss)
-
----
-
-## 📈 GitHub Stats
-
-![Rasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasadregmi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasadregmi&layout=compact&theme=radical)
-
----
-
-_If you'd like to collaborate on exciting projects or just chat about tech, feel free to reach out! 🚀_
+📫 **Feel free to reach out for collaboration or discussions!** 🚀
