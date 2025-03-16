@@ -51,8 +51,9 @@ I'm a passionate **MERN stack developer** from Kathmandu, Nepal, currently explo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasadregmi&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadregmi&layout=compact&theme=dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rasadregmi&show_icons=true&theme=dark" alt="GitHub Stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadregmi&layout=compact&theme=dark" alt="Top Languages" height="200" />
+
   <img src="https://camo.githubusercontent.com/e94dbb11804f8989634c60222fd114d15aa738c748471c4d3615f75c13665cf9/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d617279616c6269726174267468656d653d6461726b" alt="GitHub Profile Summary"/>
 </p>
 
