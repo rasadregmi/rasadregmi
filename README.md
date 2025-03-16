@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Rasad Regmi
+# Hi! 👋 I'm Rasad Regmi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rasadregmi&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
-I'm a passionate **MERN stack developer** from Kathmandu, Nepal, currently exploring **Artificial Intelligence**. I love building **scalable applications** and solving real-world problems through technology.
+I'm a **Software Engineering Student** from Kathmandu, Nepal, currently exploring **Artificial Intelligence**. I love building **scalable applications** and solving real-world problems through technology.
 
 ### 💡 Interests:
 - 🔭 Exploring **AI** and its applications in software development.
