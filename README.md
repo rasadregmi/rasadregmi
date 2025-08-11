@@ -3,13 +3,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rasadregmi&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
-I'm a **Software Engineering Student** from Kathmandu, Nepal, currently exploring **Artificial Intelligence**. I love building **scalable applications** and solving real-world problems through technology.
+I'm a **Software Engineering Student** from Kathmandu, Nepal, with a passion for building **scalable, secure, and innovative applications**.  
+My expertise spans **full-stack development**, **blockchain technologies**, and **smart contract integration**.  
+I enjoy working with modern frameworks, cloud platforms, and decentralized solutions to tackle real-world problems.  
+
+I thrive in roles where I can combine **technical skills** with problem-solving — from designing responsive frontends and robust APIs to implementing **trustless blockchain interactions** and **transparent data systems**.  
+Currently, I'm expanding my knowledge in **Artificial Intelligence**, **machine learning**, and **cloud computing** to push the boundaries of what's possible in software.
 
 ### 💡 Interests:
-- 🔭 Exploring **AI** and its applications in software development.
-- 🌱 Currently improving skills in **cloud computing** and **machine learning**.
-- 💬 Open to discussions on **web development, AI, and innovative tech solutions**.
-- 🤝 Looking for collaborations on exciting projects.
+- 🔭 Exploring **AI**, **blockchain**, and their applications in solving real-world problems.  
+- 🌱 Improving skills in **cloud computing**, **smart contract development**, and **machine learning**.  
+- 💬 Open to discussions on **web development, decentralized applications (dApps)**, and **innovative tech solutions**.  
+- 🤝 Looking for collaborations on cutting-edge projects in **AI, blockchain, and full-stack development**.  
+
 
 ---
 
