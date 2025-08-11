@@ -7,7 +7,7 @@ I'm a **Software Engineering Student** from Kathmandu, Nepal, with a passion for
 My expertise spans **full-stack development**, **blockchain technologies**, and **smart contract integration**.  
 I enjoy working with modern frameworks, cloud platforms, and decentralized solutions to tackle real-world problems.  
 
-I thrive in roles where I can combine **technical skills** with problem-solving — from designing responsive frontends and robust APIs to implementing **trustless blockchain interactions** and **transparent data systems**.  
+I thrive in roles where I can combine **technical skills** with problem-solving from designing responsive frontends and robust APIs to implementing **trustless blockchain interactions** and **transparent data systems**.  
 Currently, I'm expanding my knowledge in **Artificial Intelligence**, **machine learning**, and **cloud computing** to push the boundaries of what's possible in software.
 
 ### 💡 Interests:
