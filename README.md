@@ -79,10 +79,16 @@ I currently work across **Artificial Intelligence, machine learning, RAG, semant
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=rasadregmi&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rasadregmi&layout=compact&theme=dark" alt="Top Languages" height="200"/>
+</p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rasadregmi&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasadregmi&layout=compact&theme=dark" alt="Top Languages" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=rasadregmi&theme=dark" alt="GitHub Streak" height="200"/>
+</p>
+
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasadregmi&theme=dark" alt="GitHub Profile Summary"/>
 </p>
 
